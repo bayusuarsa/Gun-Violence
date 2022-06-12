@@ -37,3 +37,9 @@
     <td>Int</td>
   </tr>
 </table>
+
+
+
+EDA ![newplot (1)](https://user-images.githubusercontent.com/82921056/173240401-925a3968-847d-4a96-bed4-789516605990.png)
+
+
